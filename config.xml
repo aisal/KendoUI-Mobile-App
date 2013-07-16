@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.you.www"
+version = "1.0.0">
+
+<name>Your Mind Blowing App</name>
+
+<description>
+A brilliant mobile application Kendo UI Mobile and PhoneGap Build.
+</description>
+
+<author href="build.phonegap.com"
+email="">
+Aisal Brown
+</author>
+
+<icon src="Images\PDIS.jpg" gap:role="default" />
+
+<feature name="http://api.phonegap.com/1.0/network"/>
+
+<preference name="orientation" value="portrait" />
+</widget>
+
