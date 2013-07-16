@@ -4,10 +4,10 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.you.www"
 version = "1.0.0">
 
-<name>Your Mind Blowing App</name>
+<name>KendoUI App</name>
 
 <description>
-A brilliant mobile application Kendo UI Mobile and PhoneGap Build.
+A mobile application using Kendo UI Mobile and PhoneGap Build.
 </description>
 
 <author href="build.phonegap.com"
